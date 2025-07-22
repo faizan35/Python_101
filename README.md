@@ -1,14 +1,13 @@
-# Python <img src="./Img/python.png" width="35">
+# Python <img src="./.Img/python.png" width="35">
 
 ## 1: Python Foundations
 
-### 1.1 Python Setup & Development Environment
+### [1.1 Python Setup & Development Environment](./01_Python_Foundations/1.1_Python_Setup_and_Development_Environment.md)
 
 - Python installation (pyenv, system Python)
 - Virtual environments: venv, pipenv, poetry
-- IDE setup: VSCode/PyCharm, linters, formatters
 
-### 1.2 Python Syntax and Core Constructs
+### [1.2 Python Syntax and Core Constructs](./01_Python_Foundations/1.2_Python_Syntax_and_Core_Constructs.md)
 
 - Variables, expressions, statements
 - Input/output, string formatting
@@ -18,7 +17,7 @@
 - Functions: def, return, parameters
 - Basic recursion
 
-### 1.3 Data Structures in Depth
+### [1.3 Data Structures in Depth](./01_Python_Foundations/1.3_Data_Structures_in_Depth.md)
 
 - Strings (slicing, immutability)
 - Lists (methods, nested lists)
@@ -27,7 +26,7 @@
 - Dictionaries (key-value storage, iteration)
 - List/dict/set comprehensions (complex nesting)
 
-### 1.4 Error Handling & Debugging
+### [1.4 Error Handling & Debugging](./01_Python_Foundations/1.4_Error_Handling_and_Debugging.md)
 
 - Built-in exceptions
 - try/except/else/finally
@@ -35,13 +34,13 @@
 - Using pdb, breakpoints in IDEs
 - Logging basics
 
-### 1.5 Modules & Standard Library
+### [1.5 Modules & Standard Library](./01_Python_Foundations/1.5_Modules_and_Standard_Library.md)
 
 - Writing custom modules
 - Import styles
 - Key modules: math, random, datetime, collections, itertools
 
-### 1.6 File I/O
+### [1.6 File I/O](./01_Python_Foundations/1.6_File_IO.md)
 
 - Reading and writing text/binary files
 - Working with CSV, JSON
@@ -49,7 +48,7 @@
 
 ## 2: Intermediate Python
 
-### 2.1 Functions & Advanced Functional Programming
+### [2.1 Functions & Advanced Functional Programming](./02_Intermediate_Python/2.1_Functions_and_Advanced_Functional_Programming.md)
 
 - `**args` and `**kwargs`
 - Closures, lexical scoping
